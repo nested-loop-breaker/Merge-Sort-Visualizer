@@ -1,5 +1,5 @@
 import React from 'react';
-import SortingVisualizer from 'C:/Programming/Projects/Merge_Sort_Vizualizer/SortingVisualizer/SortingVisualizer.jsx';
+import SortingVisualizer from 'LocalPath_to/SortingVisualizer.jsx';
 import './App.css';
 
 function App() {
